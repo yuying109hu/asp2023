@@ -1,0 +1,6 @@
+D:\asp2023\day2\Cstday2\CstConsoleApp2\bin\Debug\CstConsoleApp2.exe.config
+D:\asp2023\day2\Cstday2\CstConsoleApp2\bin\Debug\CstConsoleApp2.exe
+D:\asp2023\day2\Cstday2\CstConsoleApp2\bin\Debug\CstConsoleApp2.pdb
+D:\asp2023\day2\Cstday2\CstConsoleApp2\obj\Debug\CstConsoleApp2.csproj.CoreCompileInputs.cache
+D:\asp2023\day2\Cstday2\CstConsoleApp2\obj\Debug\CstConsoleApp2.exe
+D:\asp2023\day2\Cstday2\CstConsoleApp2\obj\Debug\CstConsoleApp2.pdb

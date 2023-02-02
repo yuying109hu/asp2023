@@ -1,0 +1,7 @@
+D:\asp2023\day2\Cstday2\ConsoleFunction\bin\Debug\ConsoleFunction.exe.config
+D:\asp2023\day2\Cstday2\ConsoleFunction\bin\Debug\ConsoleFunction.exe
+D:\asp2023\day2\Cstday2\ConsoleFunction\bin\Debug\ConsoleFunction.pdb
+D:\asp2023\day2\Cstday2\ConsoleFunction\obj\Debug\ConsoleFunction.csproj.AssemblyReference.cache
+D:\asp2023\day2\Cstday2\ConsoleFunction\obj\Debug\ConsoleFunction.csproj.CoreCompileInputs.cache
+D:\asp2023\day2\Cstday2\ConsoleFunction\obj\Debug\ConsoleFunction.exe
+D:\asp2023\day2\Cstday2\ConsoleFunction\obj\Debug\ConsoleFunction.pdb
