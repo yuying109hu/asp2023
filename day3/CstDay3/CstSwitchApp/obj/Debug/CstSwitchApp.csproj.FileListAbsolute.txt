@@ -1,0 +1,7 @@
+D:\asp2023\day3\CstDay3\CstSwitchApp\bin\Debug\CstSwitchApp.exe.config
+D:\asp2023\day3\CstDay3\CstSwitchApp\bin\Debug\CstSwitchApp.exe
+D:\asp2023\day3\CstDay3\CstSwitchApp\bin\Debug\CstSwitchApp.pdb
+D:\asp2023\day3\CstDay3\CstSwitchApp\obj\Debug\CstSwitchApp.csproj.AssemblyReference.cache
+D:\asp2023\day3\CstDay3\CstSwitchApp\obj\Debug\CstSwitchApp.csproj.CoreCompileInputs.cache
+D:\asp2023\day3\CstDay3\CstSwitchApp\obj\Debug\CstSwitchApp.exe
+D:\asp2023\day3\CstDay3\CstSwitchApp\obj\Debug\CstSwitchApp.pdb

@@ -1,0 +1,6 @@
+D:\asp2023\day3\CstDay3\CstifStatement\bin\Debug\CstifStatement.exe.config
+D:\asp2023\day3\CstDay3\CstifStatement\bin\Debug\CstifStatement.exe
+D:\asp2023\day3\CstDay3\CstifStatement\bin\Debug\CstifStatement.pdb
+D:\asp2023\day3\CstDay3\CstifStatement\obj\Debug\CstifStatement.csproj.CoreCompileInputs.cache
+D:\asp2023\day3\CstDay3\CstifStatement\obj\Debug\CstifStatement.exe
+D:\asp2023\day3\CstDay3\CstifStatement\obj\Debug\CstifStatement.pdb
